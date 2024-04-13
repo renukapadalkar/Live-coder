@@ -6,6 +6,6 @@ The project methodology involves thorough requirements analysis, technology sele
 system design, implementation, and testing. Key features of Live Coder include real time collaborative code sharing in multiple programming C-like languages with integrated
 video calling ,messaging capabilities ensuring seamless collaboration and enhanced productivity for developers. The development process adheres to best practices in software
 engineering ensuring scalability, security, and usability.
-[Live Coder Website](https://live-coder.onrender.com/26638da6-66c0-4e5c-af14-1a8ae0536e6a?host=_)
+
 
 
